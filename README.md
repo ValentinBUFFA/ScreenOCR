@@ -1,6 +1,6 @@
 # ScreenOCR
 Quick tool to OCR a portion of your screen
-Uses Tesseract, pyautogui, keybaord and clipboard
+Uses Tesseract, pyautogui, keyboard and clipboard
 Can be useful to "copy" text from an image.
 
 ## Usage
